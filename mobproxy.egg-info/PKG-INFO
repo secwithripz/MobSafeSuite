@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: mobproxy
+Version: 1.0
+Summary: MobSafe Proxy CLI Tool
+Author: Rifnas Mohd
+Requires-Dist: mitmproxy
+Requires-Dist: rich
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
